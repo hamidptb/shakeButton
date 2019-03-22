@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var btnOut: UIButton!
     
-    // testtttttt
+    // test tttttt
     
     override func viewDidLoad() {
         super.viewDidLoad()
